@@ -1,5 +1,5 @@
 # YT-Downloader
-Application developed with Python, using the [fork yt-dlp]([https://pages.github.com/](https://github.com/yt-dlp/yt-dlp)https://github.com/yt-dlp/yt-dlp).
+Application developed with Python, using the [fork yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
 ## How to use: 
 
